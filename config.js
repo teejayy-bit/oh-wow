@@ -1,15 +1,15 @@
 // ============================================
-// 💝 CUSTOMIZE YOUR VALENTINE'S WEBSITE HERE 💝
+// 💝 OH WOW WHAT'S THIS???? 💝
 // ============================================
 
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "Jade",
+    valentineName: "em my luv my gurl my sumshyn",
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
-    pageTitle: "Will You Be My Valentine? 💝",
+    pageTitle: "aq to c tj",
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
@@ -22,35 +22,35 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "Do you like me?",                                    // First interaction
-            yesBtn: "Yes",                                             // Text for "Yes" button
-            noBtn: "No",                                               // Text for "No" button
-            secretAnswer: "I don't like you, I love you! ❤️"           // Secret hover message
+            text: "like mo ba quOh?",                                    // First interaction
+            yesBtn: "opo",                                             // Text for "Yes" button
+            noBtn: "xori pero itz a no for me",                                               // Text for "No" button
+            secretAnswer: "nde lang keta like, lab pa keta! 🫵🏽😚"           // Secret hover message
         },
         second: {
-            text: "How much do you love me?",                          // For the love meter
-            startText: "This much!",                                   // Text before the percentage
-            nextBtn: "Next ❤️"                                         // Text for the next button
+            text: "gaano mo ko ka-lab?",                          // For the love meter
+            startText: "soafer po",                                   // Text before the percentage
+            nextBtn: "pindot mo to"                                         // Text for the next button
         },
         third: {
-            text: "Will you be my Valentine on February 14th, 2025? 🌹", // The big question!
-            yesBtn: "Yes!",                                             // Text for "Yes" button
-            noBtn: "No"                                                 // Text for "No" button
+            text: "o-fish? 🐟🐠🐡🦈🎣", // The big question!
+            yesBtn: "opo pls!",                                             // Text for "Yes" button
+            noBtn: "auq baho mo 🫵🏽🤣"                                                 // Text for "No" button
         }
     },
 
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "WOOOOW You love me that much?? 🥰🚀💝",  // Shows when they go past 5000%
-        high: "To infinity and beyond! 🚀💝",              // Shows when they go past 1000%
-        normal: "And beyond! 🥰"                           // Shows when they go past 100%
+        extreme: "ahihi kaw nmn!!!",  // Shows when they go past 5000%
+        high: "yuN NA YON?#!?#",              // Shows when they go past 1000%
+        normal: "ang daMOT???? 🙄"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! I'm the luckiest person in the world! 🎉💝💖💝💓",
-        message: "Now come get your gift, a big warm hug and a huge kiss!",
+        title: "at dahil dyan bibilhan mo ko isang box ng master siomai",
+        message: "swerte mo nmn saken pindoten kita next time",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
